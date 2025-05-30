@@ -1,0 +1,3 @@
+method,dataset,dataset_version,pretrained,train,epochs,car_AP@0.5,truck_AP@0.5,bus_AP@0.5,trailer_AP@0.5,construction_vehicle_AP@0.5,pedestrian_AP@0.5,motorcycle_AP@0.5,bicycle_AP@0.5,traffic_cone_AP@0.5,barrier_AP@0.5
+VoxelNeXt,NuScenesDataset,"0,2,3,4,6,8,10,12,14,16,18,20,22,24,26,27,28,30",True,False,10,58.87,28.27,37.38,5.41,0.53,70.73,32.29,27.83,52.71,48.49
+VoxelNeXt,NuScenesDataset,"0,2,3,4,6,8,10,12,14,16,18,19,20,22,24,26,27,28,29,30",True,False,10,57.64,27.7,35.23,5.24,0.38,67.49,30.46,27.03,51.25,46.21
