@@ -1,0 +1,2 @@
+method,dataset,dataset_version,pretrained,train,epochs,Car_3d/moderate_R40,Pedestrian_3d/moderate_R40,Cyclist_3d/moderate_R40
+pointpillar_7728,KITTIDataset,I,True,False,80,78.40001637274146,51.42591065931048,62.92232738007485
