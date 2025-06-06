@@ -1,0 +1,6 @@
+,method,dataset,# of damaged beams,car_AP@0.5,pedestrian_AP@0.5,bicycle_AP@0.5
+0,voxelnext_nuscenes_kernel1,NuScenesDataset,2,71.60499999999999,81.136,45.856
+1,voxelnext_nuscenes_kernel1,NuScenesDataset,4,70.28999999999999,79.584,43.851
+2,voxelnext_nuscenes_kernel1,NuScenesDataset,6,69.179,78.475,42.632
+3,voxelnext_nuscenes_kernel1,NuScenesDataset,8,66.175,75.04400000000001,39.533
+4,voxelnext_nuscenes_kernel1,NuScenesDataset,10,59.86857142857143,67.66571428571429,31.19
